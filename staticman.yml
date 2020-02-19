@@ -1,3 +1,11 @@
+# References:
+#
+# https://github.com/onweru/hugo-swift-theme/wiki/staticman-config
+# https://vincenttam.gitlab.io/post/2018-09-16-staticman-powered-gitlab-pages/2/
+# https://networkhobo.com/hugo-staticman-nested-replies-and-email-notifications/
+# https://mademistakes.com/articles/improving-jekyll-static-comments/
+#
+#
 # Name of the property. You can have multiple properties with completely
 # different config blocks for different sections of your site.
 # For example, you can have one property to handle comment submission and
